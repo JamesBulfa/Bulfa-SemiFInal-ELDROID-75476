@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BulfaSemiFinal</string>
+    <string name="results_will_appear_here">Results will appear here</string>
+    <string name="delete_tweet" />
+    <string name="enter_tweet_id">Enter Tweet ID</string>
+    <string name="enter_last_name">Enter Last Name</string>
+    <string name="enter_first_name">Enter first Name</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="create_tweet">Create Tweet</string>
+    <string name="update_tweet">Update Tweet</string>
+    <string name="delete_tweets">Delete Tweet</string>
+</resources>
